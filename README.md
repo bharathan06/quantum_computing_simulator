@@ -13,7 +13,6 @@ REVA UNIVERSITY, BENGALURU
 Student Details:
 Name:
  Bharathan M
-Sign:
 Mobile No:
 9513833633
 Email-ID:
