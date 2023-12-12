@@ -5,90 +5,24 @@ Course Code:
 Data Structure Project Report
 Academic Year: 2nd 
 Semester & Batch:3rd,2023
-Project Details:
+
 Project Title:
 Quantum computing simulator 
-Place of Project:
-REVA UNIVERSITY, BENGALURU
+
 Student Details:
-Name:
- Bharathan M
-Mobile No:
-9513833633
-Email-ID:
-22010830966@reva.edu.in
 
+Name: Bharathan M
+Mobile No: 9513833633
+Email-ID: 22010830966@reva.edu.in
+SRN: R22EH078
 
-SRN:
-R22EH078
 Guide and Lab Faculty Members Details
-Guide Name:
-Prof. Bhavatarini 
-Sign:
-Date:
-Grade by Guide: 
+Guide Name: Prof. Bhavatarini 
+
+
  
-Name of Lab Faculty 1
-Prof. Thirumagal.E
-Sign:
-Date:
-Name of Lab Faculty 2
-Dr. Amruthabala 
-Sign:
-Date:
-Grade by Lab Faculty Members (combined)
-
-
-SEE Examiners
-Name of Examiner 1: 
-
-
-Sign:
-Date:
-Name of Examiner 2:
-
-
-Sign:
-Date:
-
-
-
-
-Contents
-Abstract
-3
-Introduction
-3
-Problem Statement.
-3
-Project overview.
-3
-Objectives
-3
-Goals
-4
-Implementation.
-4
-Problem analysis and description.
-4
-Modules identified.
-4
-Code with comments.
-4
-Output and results
-4
-Conclusions
-5
-References
-5
-
-
-
-
-
-
-
-
+Name of Lab Faculty 1 : Prof. Thirumagal.E
+Name of Lab Faculty 2 : Dr. Amruthabala 
 
 
 
